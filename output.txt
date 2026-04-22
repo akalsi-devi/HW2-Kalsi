@@ -1,11 +1,11 @@
 ## Summary
-The marketing team discussed a campaign that is currently behind schedule due to a 20% budget cut. Key deliverables include design completion and a revised timeline to accommodate the reduced budget and get the project back on track.
+The marketing team discussed a campaign that is currently behind schedule due to a 20% budget cut. John must complete designs by Friday, and Lisa will distribute a revised timeline by end of day to reflect the new constraints.
 
 ## Action Items
-- [John] - Finish campaign designs - [Due: Friday]
-- [Lisa] - Send revised timeline to team - [Due: EOD (today)]
+- John - Finish campaign designs - Due: Friday
+- Lisa - Send revised timeline to team - Due: End of day (today)
 
 ## Flags for Human Review
-- **Campaign status unclear**: "Behind schedule" lacks specifics on how far behind or what the original deadline was
-- **Budget impact not detailed**: The 20% cut and its specific implications for the campaign weren't elaborated
-- **No owner identified for overall campaign**: While John and Lisa have tasks, it's unclear who owns the campaign overall or is accountable for getting it back on track
+- No specific date provided for "Friday" or "EOD" — unclear if these refer to the current week or a future week
+- Budget cut details not fully explained (what aspects are affected, mitigation strategy unclear)
+- Next meeting scheduled for Thursday at 2pm, but no agenda items identified for discussion

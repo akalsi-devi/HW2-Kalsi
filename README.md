@@ -26,4 +26,4 @@ Claude API to summarize meeting notes and extract action items.
 5. add report.md
 
 ## Video Walkthrough
-[add link here]
+https://youtu.be/B4fb2mI_1HQ
